@@ -3,7 +3,7 @@ body {
 }
 
 .main-container {
-    color: #20565d;
+    color: #39393a;
     margin-top:40px;
 }
 
@@ -21,7 +21,7 @@ body {
 
 .main-container a,
 .main-container .title {
-    color:#43c1c8;
+    color:#39393a;
     font-size:24px;
     font-weight: 300;
 }
@@ -32,9 +32,16 @@ body {
 
 .main-container a:hover,
 .main-container a:focus {
-    color: #20565d;
+    color: #39393a;
 }
 
 .main-container a .fa {
     font-size:40px;
+}
+
+.img-profile {
+	border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    border: 2px solid #39393a;
 }
